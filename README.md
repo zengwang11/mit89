@@ -11,7 +11,7 @@ the test-doc1.html, test-doc2.html, test-doc3.html, test-doc4.html is for discov
 
 
 read1.py, read.py, write.py is used for finding the keyword which we want to choose in the whole json files,
-such as measure.json, result.json, i.json.
+such as measure.json, result.json, i.json, config.json.
 
 
 3.json, 5.json, r.json is showed as the result of finding the keyword and writing to the json files.
